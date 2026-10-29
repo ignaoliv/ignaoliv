@@ -3,6 +3,7 @@
 Forward Deployed Engineer based in Buenos Aires. I sit between the customer and the code: I learn how a business operates, design the solution and ship it to production, from idea to daily use.
 
 **Founder of [Cuida el Mango](https://cuidaelmango.com)**, the app that shows which promotion to use before you pay in Argentina (web, [App Store](https://apps.apple.com/ar/app/id6820256249), Android coming soon).
+
 **Business Development** for Spanish-speaking markets at BingX.
 
 ### What I build
